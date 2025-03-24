@@ -1,7 +1,6 @@
-Video Tutorial https://youtu.be/EOqffCi_9n8
 ## Contact 
 
-For any queries or support or removal, contact [@mesh5025](https://t.me/mesh5025) on Telegram. 
+For any queries or support or removal, contact [@utibaabu](https://t.me/utibaabu) on Telegram. 
 
 ONLY FOR TESTING PURPOSE 
 ---
