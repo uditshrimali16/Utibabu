@@ -374,7 +374,7 @@ Buy From :- @utibaabu
 def welcome_start(message):
     user_name = message.from_user.first_name
     response = f'''❄️ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴘʀᴇᴍɪᴜᴍ ᴅᴅᴏs ʙᴏᴛ, {user_name}! ᴛʜɪs ɪs ʜɪɢʜ ǫᴜᴀʟɪᴛʏ sᴇʀᴠᴇʀ ʙᴀsᴇᴅ ᴅᴅᴏs. ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇss.
-🤖Try To Run This Command : /help 
+🤖Try To Run This Command : /plan
 ✅BUY :- @utibaabu'''
     bot.reply_to(message, response)
 
@@ -402,7 +402,7 @@ Vip 🌟 :
 Pr-ice List💸 :
 Day-->10 Rs
 Week-->50 Rs
-Month-->150 Rs
+Monthly-->150 Rs
 '''
     bot.reply_to(message, response)
 
@@ -439,7 +439,7 @@ def broadcast_message(message):
         else:
             response = "🤖 Please Provide A Message To Broadcast."
     else:
-        response = "Only Admin Can Run This Command 😡."
+        response = "Only Admin Can Run This Command ."
 
     bot.reply_to(message, response)
 
